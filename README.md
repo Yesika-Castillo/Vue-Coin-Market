@@ -1,5 +1,6 @@
 # vue-coingecko
-
+## deployed
+ https://62e7144cfb289d3e30741080--dancing-genie-69b014.netlify.app/
 ## Project setup
 ```
 npm install
